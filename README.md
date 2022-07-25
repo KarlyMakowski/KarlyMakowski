@@ -9,6 +9,7 @@
 <h2 align="left" >Languages and Tools:</h3>
 
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="c" width="40" height="40"/></code>
@@ -16,7 +17,7 @@
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+
 
 <!--**KarlyMakowski/KarlyMakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
