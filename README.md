@@ -1,4 +1,4 @@
-<p align="center"><img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg" /></p>
+<p align="center"><img src="https://i.pinimg.com/originals/61/97/4d/61974dcd0888033e4360769fff5d1a78.gif" /></p>
 
  ## Hi there, I'm Karly! :smile:</strong>
 
