@@ -29,4 +29,4 @@
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" alt="c" width="40" height="40"/></code>
