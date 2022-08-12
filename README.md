@@ -2,20 +2,26 @@
 
  ## Hi there, I'm Karly! :smile:</strong>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=radical" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=radical" />
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlyMakowski&layout=compact&theme=radical" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlyMakowski&layout=compact&theme=radical" />
 
-<h2 align="left" >Languages and Tools:</h3>
-
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+<h2 align="left" >Languages and Tools:</h2>
+<h4 align="left" >FrontEnd ✨</h4>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+
+<h4 align="left" >BackEnd ✨</h4>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+
+<h2 align="left" >Social 💬</h2>
+
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="c" width="40" height="40"/></code>
 
 
 
