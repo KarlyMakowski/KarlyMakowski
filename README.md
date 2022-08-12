@@ -2,9 +2,9 @@
 
  ## Hi there, I'm Karly! :smile:</strong>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=radical" />
+<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=radical" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlyMakowski&layout=compact&theme=radical" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlyMakowski&layout=compact&theme=radical" />
 
 <h2 align="left" >Languages and Tools:</h2>
 <h4 align="left" >FrontEnd ✨</h4>
