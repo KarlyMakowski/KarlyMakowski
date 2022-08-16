@@ -2,15 +2,17 @@
 
 <p align="center"><img src="https://i.pinimg.com/originals/61/97/4d/61974dcd0888033e4360769fff5d1a78.gif" /></p>
 
- ## Hi there, I'm Karly! :blush:</strong>
+ ## Hi there, I'm Karly! :blush:</strong> 
 <br /> 
 <p>If you wanna know some more about me, why don't you just ask? :v:</p>
 
 #
 
-<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=radical" />
+<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=dracula" />
 
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlyMakowski&layout=compact&theme=radical" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlyMakowski&layout=compact&theme=dracula" />
+
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)![](https://komarev.com/ghpvc/?username=KarlyMakowski&color=ff69b4&style=flat-square)
 
 <h2 align="left" >:computer: Languages and Tools:</h2>
 <h4 align="left" >:star: FrontEnd </h4>
@@ -30,3 +32,5 @@
 <code><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" alt="c" width="40" height="40"/></code>
+
+
