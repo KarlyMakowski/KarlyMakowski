@@ -24,8 +24,9 @@
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 
 <h4 align="left" >:star: BackEnd </h4>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+
 
 <h2 align="left">💬 You can connect with me through:</h2>
 
