@@ -1,4 +1,4 @@
-<h1 align="center"><strong> "It doesn't matter which way you go, if only you walk long enough."</strong></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Victor+Mono&pause=1000&color=FF0090&multiline=true&width=435&lines=%22It+doesn't+matter+which+way+you+go%2C;+if+only+you+walk+long+enough.%22)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://i.pinimg.com/originals/61/97/4d/61974dcd0888033e4360769fff5d1a78.gif" /></p>
 
