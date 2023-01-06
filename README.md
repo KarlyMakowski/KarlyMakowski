@@ -19,9 +19,12 @@
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/></code>
+<code><https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 
 <h4 align="left" >:star: BackEnd </h4>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="c" width="40" height="40"/></code>
