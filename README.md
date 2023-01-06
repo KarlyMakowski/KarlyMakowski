@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Victor+Mono+Italic&duration=1500&pause=400&color=FF0090&center=true&vCenter=true&multiline=true&width=440&height=70&lines=%22It+doesn't+matter+which+way+you+go%2C;+if+only+you+walk+long+enough.%22)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Victor+Mono+Italic&duration=1500&pause=400&color=FF0090&center=true&vCenter=true&multiline=true&width=440&height=70&lines=%22It+doesn't+matter+which+way+you+go%2C;+if+only+you+walk+long+enough.%22)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://i.pinimg.com/originals/61/97/4d/61974dcd0888033e4360769fff5d1a78.gif" /></p>
 
