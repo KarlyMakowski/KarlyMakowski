@@ -19,7 +19,7 @@
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/></code>
-<code><https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="c" width="40" height="40"/></code>
