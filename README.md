@@ -27,6 +27,13 @@
   </a>
 </p>
 
+<h4 align="left" >:star: Other skills: </h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
+  </a>
+</p>
+
 
 <h2 align="left">💬 You can connect with me through:</h2>
 <div>
