@@ -6,8 +6,6 @@
 
  ## Hi there, I'm Karly! :blush:</strong> 
 
-#
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ff69b4)](https://github.com/)![](https://komarev.com/ghpvc/?username=KarlyMakowski&color=ff69b4&style=flat-square)
 
 <h2 align="left" >:computer: Languages and Tools:</h2>
