@@ -10,6 +10,8 @@
 
 #
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlyMakowski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ff69b4)](https://github.com/)![](https://komarev.com/ghpvc/?username=KarlyMakowski&color=ff69b4&style=flat-square)
 
 <h2 align="left" >:computer: Languages and Tools:</h2>
