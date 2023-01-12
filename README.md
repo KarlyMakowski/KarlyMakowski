@@ -10,6 +10,13 @@
 
 #
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlyMakowski&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarlyMakowski&repo=convoychat" />
+</a>
+
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ff69b4)](https://github.com/)![](https://komarev.com/ghpvc/?username=KarlyMakowski&color=ff69b4&style=flat-square)
 
 <h2 align="left" >:computer: Languages and Tools:</h2>
