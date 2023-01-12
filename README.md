@@ -29,10 +29,10 @@
 
 
 <h2 align="left">💬 You can connect with me through:</h2>
-
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" alt="c" width="40" height="40"/></code>
+<p align="left">
+  <a href="https://www.linkedin.com/in/karlamakowski/">
+    <img src="https://skillicons.dev/icons?i=linkedin," />
+  </a>
+</p>
 
 
