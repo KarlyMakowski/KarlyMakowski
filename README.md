@@ -10,9 +10,7 @@
 
 #
 
-<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=dracula" />
-
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlyMakowski&layout=compact&theme=dracula" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true)
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ff69b4)](https://github.com/)![](https://komarev.com/ghpvc/?username=KarlyMakowski&color=ff69b4&style=flat-square)
 
