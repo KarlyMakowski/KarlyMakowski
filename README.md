@@ -29,10 +29,16 @@
 
 
 <h2 align="left">💬 You can connect with me through:</h2>
+<div>
 <p align="left">
   <a href="https://www.linkedin.com/in/karlamakowski/">
-    <img src="https://skillicons.dev/icons?i=linkedin," />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="https://discord.com/Karly#3817">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+
+
 
 
