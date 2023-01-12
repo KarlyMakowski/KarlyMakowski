@@ -10,9 +10,6 @@
 
 #
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=KarlyMakowski&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ff69b4)](https://github.com/)![](https://komarev.com/ghpvc/?username=KarlyMakowski&color=ff69b4&style=flat-square)
 
 <h2 align="left" >:computer: Languages and Tools:</h2>
