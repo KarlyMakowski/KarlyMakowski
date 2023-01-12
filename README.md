@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/karlamakowski/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-   <a href="https://discord.com/Karly#3817">
+   <a href="https://discord.com/channels/Karly#3817">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
