@@ -10,35 +10,22 @@
 
 #
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ff69b4)](https://github.com/)![](https://komarev.com/ghpvc/?username=KarlyMakowski&color=ff69b4&style=flat-square)
 
 <h2 align="left" >:computer: Languages and Tools:</h2>
 <h4 align="left" >:star: FrontEnd </h4>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,react,ts,js,tailwind,bootstrap" />
+  </a>
+</p>
 
 <h4 align="left" >:star: BackEnd </h4>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="c" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40"/></code>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask" />
+  </a>
+</p>
 
 
 <h2 align="left">💬 You can connect with me through:</h2>
