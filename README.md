@@ -5,8 +5,6 @@
 <p align="center"><img src="https://i.pinimg.com/originals/61/97/4d/61974dcd0888033e4360769fff5d1a78.gif" /></p>
 
  ## Hi there, I'm Karly! :blush:</strong> 
-<br /> 
-<p>If you wanna know some more about me, why don't you just ask? :v:</p>
 
 #
 
